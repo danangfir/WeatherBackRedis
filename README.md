@@ -1,6 +1,6 @@
 # Weather API Wrapper
 
-This is a NestJS project for wrapping a weather API.
+This is a NestJS and redis project for wrapping a weather API.
 
 ## Installation
 
